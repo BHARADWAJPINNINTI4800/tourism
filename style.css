@@ -1,0 +1,88 @@
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tour-card {
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.button1 {
+    background-color: #25b1cc;
+    border-radius: 20px;
+    border-width: 0px;
+    height: 35px;
+    width: 120px;
+    color: white;
+}
+
+
+
+.favourite-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+}
+
+.favourite-card {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    margin: 15px;
+}
+
+.main-heading {
+    color: #ffffff;
+    padding: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.image1 {
+    height: 120px;
+    width: 100px;
+}
+
+.taj-heading {
+    font-size: 30px;
+}
+
+
+
+.taj-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+}
+
+.taj-main-heading {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 20px;
+}
+
+.taj-final-heading {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.taj-card {
+    margin: 14px;
+    background-color: #ffffff;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.taj-padd {
+    padding: 20px;
+}
+
+.back-margin {
+    margin: 12px;
+}
